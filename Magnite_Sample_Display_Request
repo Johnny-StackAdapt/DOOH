@@ -1,0 +1,80 @@
+{
+    "id": "00e805cc08b5c499936cc2bf864c5860087bedc3_210",
+    "at": 2,
+    "tmax": 115,
+    "imp": [{
+        "id": "1",
+        "tagid": "656638",
+        "secure": 0,
+        "iframebuster": [],
+        "banner": {
+            "pos": 0,
+            "battr": [],
+            "api": [],
+            "topframe": 0,
+            "w": 1080,
+            "h": 1920,
+            "ext": {
+                "sizes": [{
+                    "w": 1080,
+                    "h": 1920,
+                    "fmt": [210]
+                }]
+            }
+        },
+        "pmp": {
+            "private_auction": 0,
+            "deals": [{
+                "id": "DSP-11114-000ec",
+                "at": 2,
+                "bidfloor": 11.44,
+                "bidfloorcur": "USD"
+            }]
+        },
+        "instl": 0
+    }],
+    "site": {
+        "id": "xapi:123345:vlWAYkK_YBwk",
+        "domain": "http://www.dooh.com",
+        "name": "DOOH Seller Site Location",
+        "cat": ["IAB24"],
+        "page": "http://dooh.com",
+        "publisher": {
+            "id": "11114"
+        }
+    },
+    "device": {
+        "ip": "207.230.144.240",
+        "language": "en",
+        "js": 1,
+        "geo": {
+            "lat": 37.784703,
+            "lon": -122.403836,
+            "type": 1,
+            "country": "USA",
+            "region": "TX",
+            "zip": "94103",
+            "utcoffset": -300
+        },
+        "lmt": 0,
+        "devicetype": 0,
+        "ua": "doohsystem/1.0",
+        "connectiontype": 0,
+        "ext": {
+            "xff": "",
+            "dooh": {
+                "impmultiply": 2.07516
+            }
+        }
+    },
+    "user": {
+        "id": "7f1c5399a6392f9b73gj185ee2cf844cbd49fb549",
+        "ext": {
+            "sessiondepth": 0
+        }
+    },
+    "source": {},
+    "ext": {
+        "ast": 401
+    }
+}
