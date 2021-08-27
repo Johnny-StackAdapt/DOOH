@@ -1,0 +1,28 @@
+{
+  "id": "607abcef-0dcc-41a4-ba0b-ad3bXXXXXXXX",
+  "seatbid": [
+    {
+      "group": 0,
+      "bid": [
+        {
+          "id": "bidid1",
+          "impid": "display-0",
+          "dealid": "pdoEaNmbSYe5KqXXXXXXXX",
+          "price": 933.5,
+          "adomain": [
+            "cats.com"
+          ],
+          "cid": "<cid>",
+          "crid": "<crid>",
+          "adm": "<VAST TAG>",
+          "iurl": "<image asset url>", 
+          "lurl": "<LURL>",
+          "nurl": "<NURL>",
+          "ext": {
+            "imptrackers": [<impression_url>...]
+          }
+        }
+      ]
+    }
+  ]
+}
