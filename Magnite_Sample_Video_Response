@@ -1,0 +1,19 @@
+{
+    "id": "8af797a9b0381fa15ba1bfa1a9a8abe0f39c3f4e",
+    "seatbid": [{
+        "bid": [{
+            "id": "1",
+            "impid": "1",
+            "price": 7.091247,
+            "nurl": "http://a.dsp.com/sev?ai=3649231&amp;bp=91247&amp;co=isSkip%3Atrue%2CdiSrc%3A0%2Curl%3Aeqv-38.eqv-rtb1.dsp.net%2CnewUser%3Atrue%2CuD%3A832602%2CuE%3A0%2Cdid%3Atid_1022277%7Cmed_regular%2CscoreMicroConversions%3A0%2CisAI%3Atrue%2Cmt%3A1%2Coptimize%3Afalse%2CisFp%3A0%2CexId%3A8af797a9b0381fa15ba1bfa1a9a8abe0f39c3f4e%2CscoreMicroClicks%3A0%2Cbt%3A1522079986456%2Csej%3Afalse%2CserverId%3Aeqv-38%2Cuuid%3A-3%2CuV%3A129918%2CbB%3Atrue%2CuG%3A0%2Cip%3A216.55.4.130&amp;dc=3&amp;di=&amp;ep=${AUCTION_PRICE:BF}",
+            "adm": "",
+            "adomain": ["advertiser.com", "www.advertiser.com"],
+            "cid": "113853",
+            "crid": "mWqx90TylEs",
+        }],
+        "seat": "3180",
+        "group": 0
+    }],
+    "bidid": "2809c84f9ac2c6266be0eea7a15308ab",
+    "cur": "USD"
+}
