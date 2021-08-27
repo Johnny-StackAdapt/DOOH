@@ -1,0 +1,22 @@
+{
+    "id": "2e8a3058480b6e9549b33044254db6e36fc5faee_209",
+    "seatbid": [{
+        "seat": "101146",
+        "bid": [{
+            "id": "1517091661903828636",
+            "impid": "1",
+            "price": 650.000,
+            "adid": "5276214",
+            "adm": "http://foo-cdn/1/2/test/image.jpg",
+            "adomain": ["advertiser.com"],
+            "cid": "462235",
+            "dealid": "DSP-11114-000ec",
+            "ext": {
+                "imptrackers": "https://foo.com/track?adid=1234&amp;cid=1345&amp;crid=4325747&amp;requestid=${AUCTION_ID}&amp;au_p=${AUCTION_PRICE:BF}"
+            },
+            "crid": "5276494"
+        }]
+    }],
+    "bidid": "1517091661903828636",
+    "cur": "USD"
+}
