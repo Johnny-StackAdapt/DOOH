@@ -1,0 +1,75 @@
+{
+    "id": "297273f0-f77f-40bd-b2fb-0b6fXXXXXXXX",
+    "imp": [
+        {
+            "id": "display-area-3-1",
+            "banner": {
+                "w": 1280,
+                "h": 800,
+                "mimes": [
+                    "image/jpeg",
+                    "image/png"
+                ],
+                "ext": {
+                    "dooh": {
+                        "impsPerSpot": 3.5668650793650793
+                    }
+                }
+            },
+            "video": {
+                "mimes": [
+                    "video/mp4",
+                    "video/mpeg"
+                ],
+                "w": 1920,
+                "h": 1080,
+                "protocols": [
+                    3,
+                    7
+                ],
+                "ext": {
+                    "dooh": {
+                        "impsPerSpot": 1.7834325396825397,
+                        "impsPerSecond": 0.11889550264550265
+                    }
+                }
+            },
+            "bidfloor": 5,
+            "bidfloorcur": "USD",
+            "exp": 3565
+        }
+    ],
+    "site": {
+        "domain": "Seller.com",
+        "publisher": {
+            "name": "Seller"
+        }
+    },
+    "device": {
+        "ua": "Vistar Media 1.0",
+        "geo": {
+            "lat": 39.986855,
+            "lon": -75.196442,
+            "zip": "19121",
+            "type": 1
+        },
+        "ext": {
+            "dooh": {
+                "industryid": "testvenue119",
+                "publicid": "fziowv-testvenue119",
+                "venueTypeIds": [
+                    8,
+                    804
+                ]
+            }
+        }
+    },
+    "at": 2,
+    "tmax": 1000,
+    "cur": [
+        "USD"
+    ],
+    "wlang": [
+        "en"
+    ]
+}
