@@ -1,0 +1,83 @@
+{
+    "id": "c6bcd937cea8e484c95383a9d1630ff25f24c934",
+    "at": 2,
+    "tmax": 114,
+    "imp": [{
+        "id": "1",
+        "tagid": "710738",
+        "secure": 0,
+        "video": {
+            "w": 1920,
+            "h": 1080,
+            "boxingallowed": 1,
+            "ext": {
+                "orientation": "h",
+                "placement": 1
+            },
+            "linearity": 1,
+            "maxduration": 10,
+            "mimes": ["video/avi", "video/mpg", "video/flv", "video/mp4", "video/webm"],
+            "minduration": 10,
+            "playbackmethod": [1],
+            "protocol": 5,
+            "protocols": [2, 3, 5, 6],
+            "startdelay": 0,
+            "pos": 0,
+            "battr": [],
+            "api": []
+        },
+        "pmp": {
+            "private_auction": 0,
+            "deals": [{
+                "id": "DSP-147266-030ed",
+                "at": 2,
+                "bidfloor": 10.00,
+                "bidfloorcur": "USD"
+            }]
+        },
+        "instl": 1
+    }],
+    "site": {
+        "id": "xapi:147266:vlWAYkK_YBwk",
+        "domain": "doohseller.com",
+        "name": "DOOH SELLER",
+        "page": "http://www.doohseller.com",
+        "publisher": {
+            "id": "147266"
+        }
+    },
+    "device": {
+        "ip": "34.200.15.68",
+        "language": "en",
+        "js": 1,
+        "geo": {
+            "lat": 45.496101,
+            "lon": -73.569199,
+            "type": 1,
+            "country": "USA",
+            "region": "VA",
+            "zip": "20147",
+            "utcoffset": -240
+        },
+        "lmt": 0,
+        "devicetype": 0,
+        "ua":" doohsystem/1.0",
+        "connectiontype": 0,
+        "ext": {
+            "xff": "",
+            "dooh": {
+                "impmultiply": 2.07516
+            }
+        }
+    },  
+    "user": {
+        "id": "de9b57d9cadb031213a161197622c92c1e697a365",
+        "ext": {
+            "sessiondepth": 0
+        }
+    },
+    "source": {},
+    "ext": {
+        "ast": 401
+    }
+}
